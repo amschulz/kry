@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# don't show ipynb_checkpoints
+.ipynb_checkpoints
